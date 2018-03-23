@@ -1041,6 +1041,10 @@
   image: envoy.png
   alt: Envoy
   use: "Envoy's dashboard is built with Ember.js"
+- url: "https://osf.io"
+  image: osf.png
+  alt: Open Science Framework
+  use: "The Open Science Framework uses Ember.js for several sub-applications and is incrementally replacing the main osf.io front-end with an Ember app"
 
 # ---- PLEASE READ ----
 # To have your pull request accepted, you must submit your information on this form: https://airtable.com/shrZSLswT03VpzY1D
